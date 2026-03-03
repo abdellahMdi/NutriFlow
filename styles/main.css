@@ -76,6 +76,8 @@ body {
   margin-inline: 16px;
   padding-inline: 20px;
   border-radius: 20px;
+  border: 4px;
+  border-color: black;
   align-items: center;
 }
 .homePage .cardsR .info .vertC {
@@ -154,6 +156,4 @@ body {
 }
 .recipePage .ingerC ul li, .recipePage .instructions ul li {
   margin-bottom: 6px;
-}
-
-/*# sourceMappingURL=main.css.map */
+}/*# sourceMappingURL=main.css.map */
